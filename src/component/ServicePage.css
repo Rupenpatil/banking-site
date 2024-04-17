@@ -1,0 +1,48 @@
+/* ServicePage.css */
+.service-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.service-heading {
+  color: #f5f1f1;
+  text-align: center;
+}
+
+.service-description {
+  text-align: center;
+  color: #666;
+}
+
+.service-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.service-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.service-card h2 {
+  color: #333;
+}
+
+.service-card p {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.service-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+/* SecondNavbar.css */
+.second-navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .second-navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .second-navbar li {
+    margin-right: 15px;
+  }
+  
+  .second-navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .second-navbar a:hover {
+    color: #ffcc00;
+  }
+  

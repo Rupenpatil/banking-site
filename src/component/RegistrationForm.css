@@ -1,0 +1,38 @@
+/* src/components/RegistrationForm.css */
+
+.registration-form {
+    max-width: 700px;
+    margin:  auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registration-form h2 {
+    text-align: center;
+  }
+  
+  .registration-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registration-form input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width:500px;
+  }
+  
+  .registration-form button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  
+  
